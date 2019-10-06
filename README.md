@@ -1,8 +1,7 @@
-# Blynk Server Docker Image
+# Unofficial Blynk Server Docker Image for ARMv7
 
-[![](https://images.microbadger.com/badges/image/maxbanton/blynk-server.svg)](http://microbadger.com/images/maxbanton/blynk-server
-"Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/maxbanton/blynk-server.svg)](http://microbadger.com/images/maxbanton/blynk-server
-"Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/maxbanton/blynk-server.svg)](http://microbadger.com/images/maxbanton/blynk-server) 
+[![](https://images.microbadger.com/badges/version/maxbanton/blynk-server.svg)](http://microbadger.com/images/maxbanton/blynk-server)
 
 Runs your own [Blynk Server](https://github.com/blynkkk/blynk-server) in a Docker on ARMv7 container instead of relying on Blynk's public server.
 
