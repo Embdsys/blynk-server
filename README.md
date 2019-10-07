@@ -34,3 +34,5 @@ docker run -v $(PWD)/server.properties:/config/server.properties maxbanton/blynk
 ```
 
 Or you can use a data volume in another container (check out different data volume techniques [here](https://docs.docker.com/engine/tutorials/dockervolumes/)).
+
+Based on [mpherg's](https://github.com/mpherg/blynk-server) work
