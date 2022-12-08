@@ -2,7 +2,9 @@
 
 [![](https://images.microbadger.com/badges/image/maxbanton/blynk-server.svg)](http://microbadger.com/images/maxbanton/blynk-server) 
 [![](https://images.microbadger.com/badges/version/maxbanton/blynk-server.svg)](http://microbadger.com/images/maxbanton/blynk-server)
+
 GET LEGACY BLYNK ANDROID APT HERE: https://www.apkmirror.com/apk/blynk-inc/blynk-legacy/blynk-legacy-2-27-34-release/blynk-legacy-2-27-34-android-apk-download/download/?key=b38b3641ebb4081b5302878063245c2d6b620792&forcebaseapk=true
+
 Runs your own [Blynk Server](https://github.com/blynkkk/blynk-server) in a Docker on ARMv7 container instead of relying on Blynk's public server.
 
 [Blynk](http://www.blynk.cc) is the "first drag-n-drop IoT app builder for Arduino, Raspberry Pi, ESP8266, SparkFun boards, and others." Super fun.
